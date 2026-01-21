@@ -1,0 +1,122 @@
+ME12004 CW T2.1
+
+MEASURED DISTANCE 0.4M RED LINE WITH 0.4M MARK
+
+Control (flat surface) test 1:
+
+mean: 0.4046
+
+SD = 0.0021
+
+outliers/infinite values = 0
+
+CONTROL TEST 2
+
+mean: 0.4033
+
+SD = 0.0025
+
+outliers = 0
+
+CONTROL TEST 3:
+
+mean = 0.4041
+
+sd = 0.0022
+
+outliers = 0
+
+ANGLED 10 DEGREE TEST 1,2,3
+
+mean INF
+
+SD INF
+
+OUTLIERS 100
+
+SOFT BLANKET TEST 40 cm 1, 2, 3
+
+MEAN: inf
+
+SD: NaN
+
+OUTLIERS: 100
+
+BLANKET COVER TEST 40cm 1,2,3
+
+MEAN: NaN
+
+SD: NaN
+
+OUTLIERS: 100
+
+BLANKET COVER 20CM TEST 1
+
+mean 0.2269
+
+SD 6.5910E-04
+
+OUTLIERS 1
+
+BLANKET COVER 20CM TEST 2
+
+MEAN 0.2272
+
+SD 0.0010
+
+OUTLIERS  6
+
+BLANKET COVER 20CM TEST 3
+
+MEAN 0.2268
+
+SD 5.1770E-04
+
+OUTLIERS 0
+
+
+soft blanket 20 cm test 1,2,3
+
+mean NaN
+
+SD NaN
+
+outliers 100
+
+
+
+10 DEGREES 20 CM TEST 1
+
+mean 3.5499
+
+sd 0.2988
+
+outliers 11
+
+
+10 DEGREES 20 CM TEST 2
+
+mean 3.5412
+
+sd    0.3128
+
+outliers  .  24
+
+10 DEGREES 20 CM TEST 3
+
+mean 3.6051
+
+sd 0.2377
+
+outliers 14
+
+
+
+
+control 20cm
+
+mean: 0.2008, 0.2019, 0.2019
+
+sd: 0.0020, 9.8923e-04, 8.7695e-04
+
+outliers: 0, 5, 4
