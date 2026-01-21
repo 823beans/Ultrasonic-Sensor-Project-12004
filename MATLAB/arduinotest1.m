@@ -1,0 +1,10 @@
+clear
+close all
+clc
+
+a = arduino
+writeDigitalPin(a,'D13',0); %Blink off
+pause(1); %1s delay
+writeDigitalPin(a,'D13',1); %Blink on
+pause(1);
+writeDigitalPin(a,'D13',0)
